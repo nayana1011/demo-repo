@@ -1,4 +1,4 @@
-	[10:55 PM, 4/28/2022] Mukul Sapient: pipeline {
+ pipeline {
   agent any
   stages {	
 	stage('Maven Compile'){
